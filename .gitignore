@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Environment variables (VERY IMPORTANT)
+.env
+.env.*
+
+# Docker
+*.log
+
+# Build artifacts
+dist/
+build/
+
+# Node (if you ever add frontend tooling)
+node_modules/
+
+# Python (if you extend with Flask later)
+__pycache__/
+*.pyc

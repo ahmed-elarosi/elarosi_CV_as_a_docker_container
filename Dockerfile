@@ -8,7 +8,7 @@
 FROM nginx:alpine
 
 # ── Build-time labels (versioning & traceability) ───────────────
-ARG VERSION=1.0.0
+ARG VERSION=1.0.2
 ARG BUILD_DATE
 ARG GIT_COMMIT
 

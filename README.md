@@ -9,11 +9,11 @@ The container serves a simple web interface where my CV can be accessed in:
 ## 🚀 Quick Start
 **Pull the image:**
 ```
-docker pull ahmedelarosi/ahmed-elarosi-cv:1.0.0
+docker pull ahmedelarosi/ahmed-elarosi-cv:1.0.2
 ```
 **Run the container:**
 ```
-docker run -p 8080:8080 ahmedelarosi/ahmed-elarosi-cv:1.0.0
+docker run -p 8080:8080 ahmedelarosi/ahmed-elarosi-cv:1.0.2
 ```
 **Open in your browser:** http://localhost:8080
 

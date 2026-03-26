@@ -7,6 +7,11 @@ Format follows [Keep a Changelog](https://keepachangelog.com).
 
 ## [Unreleased]
 
+## [1.0.2] - 2026-03-26
+### Fix / update
+- add scripts
+
+
 ---
 [1.0.1] - 2026-03-26
 ### Added

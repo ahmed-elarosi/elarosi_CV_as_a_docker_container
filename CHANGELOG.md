@@ -9,7 +9,7 @@ Format follows [Keep a Changelog](https://keepachangelog.com).
 
 ## [1.0.2] - 2026-03-26
 ### Fix / update
-- add scripts
+- Add scripts
 
 
 ---

@@ -69,3 +69,14 @@ Automation in this project is implemented using **CI/CD pipelines** (GitHub Acti
   CI/CD pipelines enforce best practices, reduce human errors, and provide a reliable, professional deployment process.
 
 Automation ensures that every change is **tested, built, and delivered automatically**, improving efficiency, reliability, and maintainability.
+
+## 📦 Deployment Options
+
+You can deploy this container to:
+
+- Docker Hub
+- AWS ECS / ECR
+- Kubernetes
+- Any cloud provider supporting containers
+
+---

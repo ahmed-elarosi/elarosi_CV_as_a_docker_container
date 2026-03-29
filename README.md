@@ -80,3 +80,14 @@ You can deploy this container to:
 - Any cloud provider supporting containers
 
 ---
+
+## 🧠 Why This Project?
+
+This project demonstrates:
+
+- Real-world DevOps workflow
+- Containerization best practices
+- Automated deployment pipelines
+- Clean and portable application design
+
+---

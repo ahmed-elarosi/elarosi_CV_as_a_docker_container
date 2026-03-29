@@ -37,7 +37,7 @@ docker run -p 8080:8080 ahmedelarosi/ahmed-elarosi-cv:1.0.2
 
 ---
 
-# ⚙️ Automation (CI/CD)
+## ⚙️ Automation (CI/CD)
 
 This project uses **GitHub Actions** to fully automate the build and deployment process of the Docker container.
 

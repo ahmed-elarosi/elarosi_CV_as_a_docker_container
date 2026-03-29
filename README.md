@@ -1,5 +1,10 @@
 # 📄 Ahmed Elarosi – CV as a Docker Container
 
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ahmed-elarosi/elarosi_CV_as_a_docker_container/docker-publish.yml?branch=main&style=flat-square)](https://github.com/ahmed-elarosi/elarosi_CV_as_a_docker_container/actions)
+[![Docker Pulls](https://img.shields.io/docker/pulls/ahmedelarosi/ahmed-elarosi-cv?style=flat-square)](https://hub.docker.com/r/ahmedelarosi/ahmed-elarosi-cv)
+[![GitHub release](https://img.shields.io/github/v/release/ahmed-elarosi/elarosi_CV_as_a_docker_container?style=flat-square)](https://github.com/ahmed-elarosi/elarosi_CV_as_a_docker_container/releases)
+[![Docker](https://img.shields.io/badge/docker-20.10-blue?style=flat-square)](https://img.shields.io/badge/docker-20.10-blue?style=flat-square)
+
 This project provides a fully containerized version of my CV, allowing it to be easily deployed, shared, and run anywhere using Docker.
 
 ## 📌 Overview

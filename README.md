@@ -1,6 +1,6 @@
 # 📄 Ahmed Elarosi – CV as a Docker Container
 
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ahmed-elarosi/elarosi_CV_as_a_docker_container/docker-publish.yml?branch=main&style=flat-square)](https://github.com/ahmed-elarosi/elarosi_CV_as_a_docker_container/actions)
+<!-- [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ahmed-elarosi/elarosi_CV_as_a_docker_container/docker-publish.yml?branch=main&style=flat-square)](https://github.com/ahmed-elarosi/elarosi_CV_as_a_docker_container/actions) -->
 [![Docker Pulls](https://img.shields.io/docker/pulls/ahmedelarosi/ahmed-elarosi-cv?style=flat-square)](https://hub.docker.com/r/ahmedelarosi/ahmed-elarosi-cv)
 [![GitHub release](https://img.shields.io/github/v/release/ahmed-elarosi/elarosi_CV_as_a_docker_container?style=flat-square)](https://github.com/ahmed-elarosi/elarosi_CV_as_a_docker_container/releases)
 [![Docker](https://img.shields.io/badge/docker-20.10-blue?style=flat-square)](https://img.shields.io/badge/docker-20.10-blue?style=flat-square)
@@ -41,7 +41,7 @@ docker run -p 8080:8080 ahmedelarosi/ahmed-elarosi-cv:1.0.2
 
 This project uses **GitHub Actions** to fully automate the build and deployment process of the Docker container.
 
-## 🔄 What Happens Automatically?
+### 🔄 What Happens Automatically?
 
 Every time code is pushed to the repository:
 

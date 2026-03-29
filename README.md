@@ -31,3 +31,21 @@ docker run -p 8080:8080 ahmedelarosi/ahmed-elarosi-cv:1.0.2
 **Open in your browser:** http://localhost:8080
 
 ---
+
+# ⚙️ Automation (CI/CD)
+
+This project uses **GitHub Actions** to fully automate the build and deployment process of the Docker container.
+
+## 🔄 What Happens Automatically?
+
+Every time code is pushed to the repository:
+
+1. 📥 **Checkout Code** – The latest version of the repository is pulled.
+2. 🐳 **Build Docker Image** – The Docker image is automatically built from the `Dockerfile`.
+3. 🏷️ **Tag the Image** – The image is tagged with the appropriate version or `latest`.
+4. 📤 **Push to Docker Registry** – The image is pushed to Docker Hub or another container registry.
+
+This ensures consistency, repeatability, and reduces manual deployment errors. ([Docker CI/CD Docs](https://docs.docker.com/guides/r/configure-ci-cd/?utm_source=chatgpt.com))
+
+---
+
